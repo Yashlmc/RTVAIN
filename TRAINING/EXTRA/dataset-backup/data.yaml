@@ -1,0 +1,5 @@
+path: ./export-#NDDYiXADPUwC4i9DFCMA
+train: images
+val: images
+nc: 4
+names: ['kicker', 'keeper', 'ball', 'goal_post']

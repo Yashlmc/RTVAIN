@@ -1,0 +1,4 @@
+kicker
+keeper
+ball
+goal_post

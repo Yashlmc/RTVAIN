@@ -1,0 +1,5 @@
+path: ./export-#F7lBhTLt9YAHWyx8j1fY
+train: images
+val: images
+nc: 4
+names: ['keeper', 'ball', 'kicker', 'goalpost']

@@ -1,0 +1,30 @@
+[
+  {
+    "sequence_events": [
+      {
+        "event": "run_up",
+        "frame": 48
+      },
+      {
+        "event": "kick",
+        "frame": 55
+      },
+      {
+        "event": "keeper_dive",
+        "direction": "top-left",
+        "frame": 57
+      },
+      {
+        "event": "miss",
+        "direction": "top",
+        "frame": 60
+      }
+    ],
+    "match_context": {
+      "player_kicker": "Ronaldo",
+      "goalkeeper": "Kahn",
+      "score": "0-0"
+    },
+    "commentary": ""
+  }
+]

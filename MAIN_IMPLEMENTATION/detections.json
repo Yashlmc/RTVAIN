@@ -1,0 +1,3868 @@
+[
+  {
+    "frame": 1,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          476,
+          192,
+          948,
+          330
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          915,
+          290,
+          92,
+          241
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          624,
+          525,
+          136,
+          384
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          731,
+          50,
+          51
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 65,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          955,
+          358
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          920,
+          312,
+          124,
+          251
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          54,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          597,
+          489,
+          149,
+          427
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 66,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          955,
+          358
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          920,
+          312,
+          124,
+          251
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          54,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          597,
+          489,
+          149,
+          427
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 68,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          955,
+          358
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          920,
+          312,
+          124,
+          251
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          54,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          597,
+          489,
+          149,
+          427
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 69,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          358
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          53
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          908,
+          329,
+          123,
+          238
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          605,
+          494,
+          142,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 70,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          476,
+          206,
+          951,
+          359
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          53
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          340,
+          133,
+          230
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          611,
+          487,
+          137,
+          416
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 72,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          476,
+          206,
+          951,
+          359
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          53
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          340,
+          133,
+          230
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          611,
+          487,
+          137,
+          415
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 73,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          476,
+          206,
+          950,
+          358
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          895,
+          348,
+          134,
+          219
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          618,
+          488,
+          144,
+          418
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 75,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          476,
+          206,
+          951,
+          358
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          894,
+          351,
+          136,
+          214
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          620,
+          499,
+          145,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 76,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          476,
+          206,
+          951,
+          358
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          894,
+          351,
+          136,
+          214
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          620,
+          499,
+          146,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 77,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          476,
+          206,
+          951,
+          358
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          894,
+          351,
+          136,
+          214
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          620,
+          499,
+          145,
+          410
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 78,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          356
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          630,
+          500,
+          150,
+          395
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          897,
+          351,
+          138,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 79,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          630,
+          500,
+          150,
+          395
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          897,
+          351,
+          138,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 80,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          54,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          902,
+          351,
+          139,
+          216
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          640,
+          494,
+          159,
+          393
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 81,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          54,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          902,
+          351,
+          139,
+          216
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          640,
+          494,
+          159,
+          393
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 82,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          54,
+          54
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          903,
+          351,
+          138,
+          216
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          640,
+          494,
+          159,
+          393
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 83,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          902,
+          349,
+          139,
+          218
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          54,
+          54
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          656,
+          490,
+          163,
+          404
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 84,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          954,
+          356
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          902,
+          349,
+          139,
+          218
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          934,
+          746,
+          54,
+          54
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          656,
+          490,
+          163,
+          404
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 85,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          205,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          349,
+          139,
+          218
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          663,
+          499,
+          160,
+          391
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 86,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          205,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          349,
+          139,
+          218
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          663,
+          499,
+          160,
+          391
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 87,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          205,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          349,
+          139,
+          218
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          746,
+          53,
+          54
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          663,
+          499,
+          160,
+          391
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 89,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          358
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          894,
+          350,
+          139,
+          218
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          747,
+          53,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          689,
+          499,
+          149,
+          388
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 90,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          894,
+          350,
+          139,
+          217
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          747,
+          53,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          689,
+          499,
+          149,
+          388
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 91,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          952,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          892,
+          350,
+          140,
+          215
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          747,
+          54,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          698,
+          493,
+          165,
+          385
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 92,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          952,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          892,
+          351,
+          140,
+          214
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          747,
+          54,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          698,
+          493,
+          165,
+          385
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 93,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          895,
+          350,
+          139,
+          216
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          747,
+          54,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          734,
+          485,
+          157,
+          394
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 94,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          895,
+          350,
+          139,
+          215
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          747,
+          53,
+          53
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          734,
+          485,
+          157,
+          393
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 95,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          954,
+          356
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          344,
+          137,
+          226
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          936,
+          746,
+          54,
+          54
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          752,
+          477,
+          145,
+          392
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 96,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          954,
+          356
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          344,
+          137,
+          226
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          936,
+          746,
+          54,
+          54
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          752,
+          477,
+          145,
+          392
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 97,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          205,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          344,
+          136,
+          226
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          936,
+          746,
+          54,
+          54
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          752,
+          477,
+          145,
+          392
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 98,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          206,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          892,
+          319,
+          156,
+          252
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          748,
+          55,
+          55
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          712,
+          457,
+          213,
+          378
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 99,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          206,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          892,
+          319,
+          156,
+          252
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          748,
+          55,
+          55
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          712,
+          457,
+          213,
+          377
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 100,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          749,
+          52,
+          53
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          890,
+          317,
+          162,
+          246
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          681,
+          466,
+          251,
+          340
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 101,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          956,
+          356
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          749,
+          53,
+          53
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          890,
+          317,
+          162,
+          246
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          681,
+          466,
+          251,
+          339
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 102,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          935,
+          749,
+          53,
+          53
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          890,
+          317,
+          162,
+          246
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          681,
+          466,
+          251,
+          339
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 103,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          955,
+          356
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          682,
+          482,
+          263,
+          335
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          899,
+          331,
+          149,
+          239
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          936,
+          748,
+          52,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 105,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          957,
+          354
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          895,
+          345,
+          169,
+          228
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          708,
+          489,
+          230,
+          325
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 106,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          957,
+          354
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          895,
+          345,
+          169,
+          228
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          708,
+          489,
+          230,
+          325
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 107,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          957,
+          354
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          895,
+          345,
+          169,
+          228
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          708,
+          489,
+          230,
+          325
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 108,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          954,
+          356
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          879,
+          325,
+          164,
+          247
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          741,
+          471,
+          146,
+          341
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 109,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          954,
+          356
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          879,
+          325,
+          164,
+          247
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          741,
+          471,
+          146,
+          341
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 110,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          866,
+          354,
+          164,
+          216
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          741,
+          467,
+          143,
+          334
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          710,
+          397,
+          40,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 111,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          866,
+          354,
+          164,
+          216
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          741,
+          467,
+          144,
+          334
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          710,
+          397,
+          40,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 112,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          866,
+          354,
+          164,
+          216
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          741,
+          467,
+          144,
+          334
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          710,
+          397,
+          40,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 113,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          208,
+          955,
+          354
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          724,
+          464,
+          163,
+          334
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 114,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          208,
+          955,
+          354
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          724,
+          464,
+          163,
+          334
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 115,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          698,
+          451,
+          190,
+          340
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 116,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          954,
+          356
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          698,
+          451,
+          190,
+          340
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 117,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          954,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          698,
+          451,
+          190,
+          340
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 118,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          208,
+          955,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          622,
+          423,
+          270,
+          358
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          734,
+          447,
+          168,
+          338
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 119,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          208,
+          955,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          622,
+          423,
+          271,
+          358
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          734,
+          447,
+          168,
+          339
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 121,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          954,
+          360
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          725,
+          432,
+          158,
+          347
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 122,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          954,
+          360
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          725,
+          432,
+          158,
+          347
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 123,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          359
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          716,
+          440,
+          161,
+          342
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          537,
+          424,
+          246,
+          167
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          679,
+          439,
+          197,
+          346
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 124,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          206,
+          953,
+          359
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          716,
+          440,
+          161,
+          342
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          537,
+          424,
+          246,
+          167
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          679,
+          439,
+          197,
+          346
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 125,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          475,
+          207,
+          950,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          701,
+          441,
+          151,
+          346
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          538,
+          424,
+          230,
+          167
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 126,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          475,
+          207,
+          950,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          701,
+          441,
+          151,
+          346
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          538,
+          424,
+          229,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 127,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          475,
+          207,
+          950,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          701,
+          441,
+          151,
+          346
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          538,
+          424,
+          229,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 128,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          475,
+          205,
+          950,
+          355
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          695,
+          440,
+          163,
+          339
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 129,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          475,
+          205,
+          950,
+          355
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          695,
+          440,
+          163,
+          339
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 130,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          207,
+          956,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          684,
+          434,
+          170,
+          341
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 131,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          207,
+          956,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          684,
+          435,
+          170,
+          340
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 132,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          207,
+          956,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          684,
+          435,
+          170,
+          340
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 133,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          207,
+          956,
+          362
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          682,
+          424,
+          166,
+          369
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          589,
+          473,
+          39,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 134,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          207,
+          956,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          681,
+          424,
+          167,
+          369
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          589,
+          473,
+          39,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 135,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          208,
+          958,
+          363
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          588,
+          465,
+          37,
+          36
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          690,
+          427,
+          167,
+          368
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 137,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          208,
+          957,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          690,
+          427,
+          167,
+          368
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          588,
+          465,
+          37,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 138,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          207,
+          956,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          701,
+          437,
+          164,
+          352
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          588,
+          409,
+          39,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 139,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          207,
+          956,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          701,
+          437,
+          164,
+          351
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          588,
+          409,
+          39,
+          37
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          426,
+          498,
+          181,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 140,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          208,
+          958,
+          362
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          586,
+          384,
+          34,
+          36
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          712,
+          440,
+          161,
+          346
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 141,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          208,
+          958,
+          362
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          586,
+          384,
+          34,
+          36
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          712,
+          440,
+          161,
+          346
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 143,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          208,
+          953,
+          362
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          725,
+          427,
+          159,
+          366
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          425,
+          492,
+          178,
+          116
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 144,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          208,
+          953,
+          362
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          725,
+          427,
+          159,
+          366
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          425,
+          493,
+          178,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 145,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          207,
+          953,
+          362
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          729,
+          432,
+          159,
+          366
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          582,
+          378,
+          32,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 147,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          477,
+          207,
+          953,
+          362
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          729,
+          432,
+          158,
+          366
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          582,
+          378,
+          32,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 148,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          207,
+          955,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          730,
+          437,
+          167,
+          377
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          583,
+          403,
+          37,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 149,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          207,
+          955,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          730,
+          437,
+          167,
+          377
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          583,
+          403,
+          37,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 150,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          207,
+          958,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          731,
+          440,
+          169,
+          385
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          584,
+          429,
+          38,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 151,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          207,
+          958,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          731,
+          440,
+          169,
+          385
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          584,
+          429,
+          38,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 152,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          207,
+          958,
+          363
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          731,
+          440,
+          169,
+          385
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          584,
+          429,
+          38,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 153,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          207,
+          958,
+          362
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          740,
+          455,
+          168,
+          371
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          431,
+          473,
+          179,
+          125
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 154,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          207,
+          958,
+          362
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          740,
+          455,
+          167,
+          371
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          431,
+          473,
+          179,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 155,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          207,
+          958,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          742,
+          457,
+          162,
+          372
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          429,
+          465,
+          175,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 156,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          207,
+          958,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          742,
+          457,
+          162,
+          372
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          429,
+          466,
+          175,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 158,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          207,
+          958,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          750,
+          450,
+          153,
+          386
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          424,
+          463,
+          164,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 159,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          207,
+          958,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          750,
+          450,
+          154,
+          386
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          424,
+          463,
+          164,
+          128
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 160,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          206,
+          958,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          755,
+          440,
+          146,
+          394
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          418,
+          459,
+          158,
+          128
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 161,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          206,
+          958,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          755,
+          442,
+          145,
+          392
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          418,
+          457,
+          157,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 162,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          206,
+          958,
+          361
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          755,
+          442,
+          144,
+          392
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          418,
+          457,
+          157,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 163,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          480,
+          205,
+          958,
+          360
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          756,
+          444,
+          147,
+          397
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          425,
+          430,
+          147,
+          164
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 165,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          958,
+          359
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          762,
+          449,
+          153,
+          396
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          425,
+          421,
+          137,
+          178
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 166,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          958,
+          359
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          762,
+          449,
+          153,
+          396
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          425,
+          421,
+          137,
+          178
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 167,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          958,
+          359
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          762,
+          449,
+          153,
+          396
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          425,
+          421,
+          137,
+          178
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 169,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          770,
+          474,
+          160,
+          383
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          420,
+          420,
+          149,
+          176
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 170,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          957,
+          358
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          773,
+          487,
+          169,
+          375
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          421,
+          410,
+          163,
+          181
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 172,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          957,
+          358
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          773,
+          487,
+          169,
+          376
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          421,
+          411,
+          163,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 173,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          787,
+          496,
+          180,
+          381
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          540,
+          490,
+          37,
+          34
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          419,
+          409,
+          160,
+          182
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          577,
+          490,
+          39,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 174,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          479,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          787,
+          496,
+          180,
+          381
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          540,
+          490,
+          37,
+          34
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          420,
+          409,
+          159,
+          182
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          577,
+          490,
+          39,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 175,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          356
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          791,
+          496,
+          172,
+          386
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          540,
+          483,
+          36,
+          36
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          419,
+          410,
+          155,
+          182
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          576,
+          484,
+          37,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 176,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          356
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          791,
+          496,
+          172,
+          386
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          540,
+          483,
+          36,
+          36
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          419,
+          410,
+          155,
+          182
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          576,
+          484,
+          37,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 177,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          356
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          791,
+          496,
+          172,
+          386
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          540,
+          483,
+          36,
+          37
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          419,
+          410,
+          155,
+          182
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          576,
+          484,
+          37,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 178,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          793,
+          491,
+          166,
+          402
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          540,
+          490,
+          35,
+          34
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          418,
+          408,
+          155,
+          183
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 179,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          793,
+          491,
+          166,
+          402
+        ]
+      },
+      {
+        "class": "ball",
+        "bbox": [
+          540,
+          490,
+          35,
+          34
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          418,
+          408,
+          155,
+          183
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 180,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          204,
+          956,
+          358
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          804,
+          489,
+          174,
+          398
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          415,
+          405,
+          160,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 181,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          204,
+          956,
+          358
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          804,
+          489,
+          174,
+          398
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          415,
+          405,
+          160,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 182,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          204,
+          956,
+          358
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          804,
+          489,
+          174,
+          397
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          415,
+          405,
+          160,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 183,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          204,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          806,
+          493,
+          183,
+          400
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          414,
+          401,
+          158,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 184,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          204,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          806,
+          493,
+          183,
+          399
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          414,
+          401,
+          158,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 185,
+    "detections": [
+      {
+        "class": "goal_post",
+        "bbox": [
+          478,
+          205,
+          956,
+          357
+        ]
+      },
+      {
+        "class": "kicker",
+        "bbox": [
+          810,
+          501,
+          179,
+          402
+        ]
+      },
+      {
+        "class": "keeper",
+        "bbox": [
+          416,
+          388,
+          158,
+          206
+        ]
+      }
+    ]
+  }
+]

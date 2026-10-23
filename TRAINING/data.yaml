@@ -1,0 +1,5 @@
+train: images/train
+val: images/val
+
+nc: 4  # update this if you have more classes
+names: ['kicker', 'keeper', 'ball', 'goal_post']
